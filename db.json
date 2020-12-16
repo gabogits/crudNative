@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Yuki",
+      "telefono": "98239823",
+      "correo": "Yuki@test.com",
+      "empresa": "Yukimi",
+      "id": 1
+    },
+    {
+      "nombre": "Kimi",
+      "telefono": "87823423",
+      "correo": "Kimi@test.com",
+      "empresa": "Empresa",
+      "id": 2
+    },
+    {
+      "nombre": "Yorus lenguita",
+      "telefono": "902390377",
+      "correo": "Yorusita@test.com",
+      "empresa": "Empresa yorus",
+      "id": 3
+    },
+    {
+      "nombre": "Gerardo",
+      "telefono": "2332423",
+      "correo": "Gera@test.com",
+      "empresa": "Gera",
+      "id": 4
+    },
+    {
+      "nombre": "Marisol",
+      "telefono": "324234",
+      "correo": "Mari@test.com",
+      "empresa": "Mar",
+      "id": 5
+    }
+  ]
+}
